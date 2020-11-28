@@ -1,0 +1,59 @@
+<!DOCTYPE html><!-- es una instrucción especial que va al inicio de nuestro documento HTML, damos el inicio con el documento-->
+<html lang="en">
+<head>
+	<meta charset="UTF-8"><!--se incorporan en el encabezado de una página web y que resultan invisibles para un visitante normal-->
+	<title> PROYECTO </title><!--cerramos lo declarado-->
+	 <link rel="stylesheet" type="text/css" href="tablass.css"/><!--especifica la relación entre el documento actual y un recurso externo-->
+</head><!--cerramos lo declarado-->
+
+<body>	
+	<center>
+		<td><font color="#FFFFFF" face="arial Black"><!--Indica el tamaño, color, o fuente del texto que contiene clartamente se puede ver-->
+		<h1> CineChava-Fox  </h1><!-- el título de un pos-->
+	</center>
+
+	<center>		
+				<a href=""><img src="1.png"width= "20%"; height= "auto%"></a> 
+				<p style="font-size: 18px;">¡¡Tu mejor opciòn!!<b></b></p><!--aqui tanto damos la propiedad sea distribuida en otros parrafos, pero tambien es representado-->
+				<p style="font-size: 18px;"><b>Un canal lleno de pelicula MTV.</b></p><!-- lo mismo que  lo anterior-->
+        <p style="font-size: 18px;"><b>Que es Familiar para disfrutar todos los dias de la semana.</b></p><!-- lo mismo que  lo anterior-->
+        <p style="font-size: 18px;"><b>TOTALMENTE GRATIS.</b></p><!-- lo mismo que  lo anterior-->
+
+				
+	</center><!--cerramos lo declarado-->
+
+	<table>
+<caption>Categoria mas recomendadas</caption>
+  <tr>
+    <th>Nª </th>
+    <th>Categoria</th>
+    <th>Recomendadas</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Acciòn</td>
+    <td>97%</td>
+  </tr>
+   <tr>
+    <td>2</td>
+    <td>Drama</td>
+    <td>78%</td>
+  </tr>
+   <tr>
+    <td>3</td>
+    <td>Suspenso</td>
+    <td>78%</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Terror</td>
+    <td>75%</td>
+  </tr>
+
+</table>
+
+<br><!--saltos de linea-->
+
+
+</body><!--cerramos lo declarado-->
+</html><!--cerramos lo declarado-->
