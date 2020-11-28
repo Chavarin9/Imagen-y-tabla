@@ -1,0 +1,43 @@
+/*
+Crear Una Tabla
+*/
+body{
+background: url(Fondo.jpg);
+background-size: 100%;
+background-repeat: no-repeat;
+}
+
+header{
+	width: 100%;
+}
+
+h1{
+	text-align: center;
+}
+
+table{
+	margin-top: 50px;
+	caption-side: bottom;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+}
+
+th{
+	background-color: black;
+	color: white;
+
+}
+
+caption{
+	padding-top: 20px;
+	font-style: italic;
+}
+
+td,th{
+	border: 2px solid black;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
